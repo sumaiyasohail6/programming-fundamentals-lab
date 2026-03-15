@@ -7,7 +7,7 @@ int n;
 cin>>n;
 int sum;
 sum=(n-2)*180;
-cout<<"sum of angles of a  " << n << "-sided polygon is  " << sum ; 
+cout<<"sum of angles of a  " << n << "-sided polygon is  " << sum ; \\test.
 cin.get();
 cin.get();
 }
