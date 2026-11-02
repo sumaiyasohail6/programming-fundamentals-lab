@@ -1,0 +1,8 @@
+ali,032456778
+ahmad,12345678
+sara,45632865
+fatima,12345679
+,
+zara,34543278
+sohail,23456976423,lahore
+ayesha,125796432,isl
